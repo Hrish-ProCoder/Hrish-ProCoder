@@ -30,7 +30,7 @@
   <li> Looking for New Intern as AI/ML Enginner and Data Anlyst/Scientist!
 </ul>   -->
 
-Hello, my name is <b>Hrishabh Kulkarni</b>, a `Computer Science` graduate student at Seattle University, `specializing in Data Science`. What excites me most is building robust software systems and diving into the vast world of math and data science.
+Hello, my name is <b>Hrishabh Kulkarni</b>, a `Data Science` graduate student at Seattle University, `specializing in Data Science`. What excites me most is building robust software systems and diving into the vast world of math and data science.
 
 Currently, as a `data science researcher` at my university, I'm involved in exploring synthetic data generation algorithms. Through this work, I've not only gained valuable research experience but also achieved concrete results – notably improving classification accuracy by `10%` through fine-tuned data augmentation algorithms, which contributed to more accurate predictions and insights.
 
@@ -56,7 +56,7 @@ Thank you for your consideration!
 <!--GITHUB STREAK-->
 <br>
 <p align = "center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rxhxt&theme=tokyonight&hide_border=true" alt="rxhxt" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrish-ProCoder&theme=tokyonight&hide_border=true" alt="Hrish-ProCoder" />
 </p>
 
 <!--CURRENTLY WORKING ON-->
